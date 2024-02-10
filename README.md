@@ -1,3 +1,4 @@
 hello
-welcome to my repositors
-this do nothing
+sorry if not private
+and this is my repo
+to use my sh file
